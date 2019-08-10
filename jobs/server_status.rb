@@ -27,7 +27,7 @@ SERVERS = [
 SCHEDULER.every '10s', :first_in => 0 do |job|
 
 	statuses = Array.new
-	
+
 	status_color = "status green"
 
 	# check status for each server
