@@ -1,0 +1,96 @@
+// ----------------------------------------------------------------------------
+// Sass declarations
+// ----------------------------------------------------------------------------
+$background-color: #ffe;
+$primary-color: #335;
+$secondary-color: rgba(0,0,0,.7);
+
+$green-color: #13ba98;
+$red-color: #ff1134;
+
+// ----------------------------------------------------------------------------
+// Widget-list styles
+// ----------------------------------------------------------------------------
+.widget-server-status {
+
+  vertical-align: top;
+  position: relative;
+
+  .title {
+    color: $primary-color;
+  }
+
+  ol, ul {
+    margin: 0 15px;
+    text-align: left;
+    color: $primary-color;
+  }
+
+  ol {
+    list-style-position: inside;
+  }
+
+  li {
+    margin-bottom: 5px;
+  }
+
+  .list-nostyle {
+    list-style: none;
+  }
+
+  .label {
+    color: $primary-color;
+  }
+
+  .value {
+    float: right;
+    margin-left: 12px;
+    font-weight: 600;
+  }
+
+  .updated-at {
+    color: rgba(0, 0, 0, 0.3);
+  }
+
+  .more-info {
+    color: $secondary-color;
+  }
+
+  .status{
+    .value{
+      color: $green-color;
+    }
+    &:before, &:after{
+      content: "";
+      position: absolute;
+      z-index: -1;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background-color: $background-color;
+    }
+
+    &.red{
+      .value{
+        color: $primary-color;
+      }
+      &:after{
+        animation: alarm 1s steps(1, start) infinite;
+      }
+    }
+  }
+
+}
+
+@keyframes alarm {
+  0% {
+    background-color: orange;
+  }
+  50% {
+    background-color: red;
+  }
+  100% {
+    background-color: orange;
+  }
+}

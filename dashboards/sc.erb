@@ -1,0 +1,22 @@
+<% content_for :title do %>Schul-Cloud Status<% end %>
+  <div class="gridster">
+    <ul>
+      <li data-row="1" data-col="1" data-sizex="1" data-sizey="1">
+        <div data-id="server_status" data-view="ServerStatus" data-title="Server Status"></div>
+      </li>
+      <li data-row="1" data-col="3" data-sizex="1" data-sizey="1">
+        <div data-id="view1" data-view="JiraSprintRemainingDays"></div>
+      </li>
+      <li data-row="1" data-col="4" data-sizex="1" data-sizey="1">
+      <div data-id="jira_open_issues" data-view="Number" data-title="Open Issues"></div>
+      </li>
+
+      <li data-row="2" data-col="1" data-sizex="2" data-sizey="1">
+        <div data-id="jira-blocker" data-view="JiraListIssues" style="background-color: darkgoldenrod;"></div>
+      </li>
+      <li data-row="2" data-col="3" data-sizex="2" data-sizey="1">
+        <div data-id="jira-feueralarme" data-view="JiraListIssues" style="background-color: darkred;"></div>
+      </li>
+    </ul>
+  </div>
+  

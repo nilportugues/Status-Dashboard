@@ -1,0 +1,14 @@
+<h1 class="header" data-bind="header"></h1>
+
+<div class="list">
+	<div data-foreach-issue="issues" class="wrapper">
+		<div class="issue-title" data-bind="issue.title"></div>
+		<div class="issue-info">
+			<span class="issue-id" data-bind="issue.id"></span>
+			-
+			<span class="assignee-name" data-bind="issue.assigneeName"></span>
+		</div>
+		<div style="clear: both; padding-bottom: 1vh;"></div>
+	</div>
+</div>
+<p class="updated-at" data-bind="updatedAtMessage"></p>

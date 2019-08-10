@@ -1,0 +1,31 @@
+---
+buzzwords: "data: {\"items\":[{\"label\":\"Paradigm shift\",\"value\":10},{\"label\":\"Streamlininess\",\"value\":9},{\"label\":\"Pivoting\",\"value\":17},{\"label\":\"Web
+  2.0\",\"value\":5},{\"label\":\"Exit strategy\",\"value\":20},{\"label\":\"Leverage\",\"value\":6},{\"label\":\"Synergy\",\"value\":12},{\"label\":\"Enterprise\",\"value\":0},{\"label\":\"Turn-key\",\"value\":1}],\"id\":\"buzzwords\",\"updatedAt\":1565381562042}\n\n"
+convergence: "data: {\"points\":[{\"x\":351,\"y\":13},{\"x\":352,\"y\":15},{\"x\":353,\"y\":21},{\"x\":354,\"y\":35},{\"x\":355,\"y\":37},{\"x\":356,\"y\":19},{\"x\":357,\"y\":8},{\"x\":358,\"y\":19},{\"x\":359,\"y\":38},{\"x\":360,\"y\":12}],\"id\":\"convergence\",\"updatedAt\":1565381562043}\n\n"
+valuation: "data: {\"current\":86,\"last\":38,\"id\":\"valuation\",\"updatedAt\":1565381560227}\n\n"
+karma: "data: {\"current\":70444,\"last\":126362,\"id\":\"karma\",\"updatedAt\":1565381560227}\n\n"
+synergy: "data: {\"value\":35,\"id\":\"synergy\",\"updatedAt\":1565381560228}\n\n"
+jira_resolved_issues: "data: {\"header\":\"Sonic the Hedgehog Issues\",\"issue_type\":\"Reopened\",\"issues\":[],\"id\":\"jira_resolved_issues\",\"updatedAt\":1565379767548}\n\n"
+jira_open_issues: "data: {\"current\":18,\"id\":\"jira_open_issues\",\"updatedAt\":1565431137933}\n\n"
+jira_in_prog_issues: "data: {\"header\":\"Sonic the Hedgehog Issues\",\"issue_type\":\"In
+  Progress Yeah\",\"issues\":[{\"id\":\"SC-1645\",\"title\":\"Notification prompt
+  triggers chat welcome screen\",\"assigneeName\":\"martin.malchow\",\"assigneeAvatarUrl\":\"https://ticketsystem.schul-cloud.org/secure/useravatar?avatarId=10122\"},{\"id\":\"SC-1625\",\"title\":\"Migration
+  script validate shared and copied course files\",\"assigneeName\":\"Cedric.Evers\",\"assigneeAvatarUrl\":\"https://ticketsystem.schul-cloud.org/secure/useravatar?ownerId=cedric.evers&avatarId=10811\"},{\"id\":\"SC-1414\",\"title\":\"Beim
+  Anlegen von Kursen aktuelles Schuljahr bundeslandspezifisch voreintragen\",\"assigneeName\":\"Maximilian.Grundke\",\"assigneeAvatarUrl\":\"https://ticketsystem.schul-cloud.org/secure/useravatar?ownerId=maximilian.grundke&avatarId=13300\"},{\"id\":\"SC-494\",\"title\":\"SHD:
+  Nutzererstellung: Großbuchstaben bei Email führt zum Crash\",\"assigneeName\":\"wolfgang.rathgeb\",\"assigneeAvatarUrl\":\"https://ticketsystem.schul-cloud.org/secure/useravatar?avatarId=10349\"}],\"id\":\"jira_in_prog_issues\",\"updatedAt\":1565381463296}\n\n"
+jira: "data: {\"current\":50,\"id\":\"jira\",\"updatedAt\":1565381524736}\n\n"
+server_status: "data: {\"items\":[{\"label\":\"Schul-Cloud\",\"value\":1,\"arrow\":\"fa
+  fa-check-circle\",\"color\":\"green\"},{\"label\":\"Niedersachsen\",\"value\":1,\"arrow\":\"fa
+  fa-check-circle\",\"color\":\"green\"},{\"label\":\"Brandenburg\",\"value\":1,\"arrow\":\"fa
+  fa-check-circle\",\"color\":\"green\"},{\"label\":\"Open SC\",\"value\":1,\"arrow\":\"fa
+  fa-check-circle\",\"color\":\"green\"},{\"label\":\"Blog\",\"value\":1,\"arrow\":\"fa
+  fa-check-circle\",\"color\":\"green\"}],\"status\":\"status green\",\"id\":\"server_status\",\"updatedAt\":1565431258952}\n\n"
+view1: "data: {\"viewName\":\"Sprint Days\",\"sprintName\":\"Sonic the Hedgehog\",\"daysRemaining\":0,\"id\":\"view1\",\"updatedAt\":1565430837658}\n\n"
+jira-feueralarme: "data: {\"header\":\"Feueralarme\",\"issues\":[{\"id\":\"SC-1771\",\"title\":\"BRB:
+  Einwilligung via Klassen-QR-Code ohne Geburtstdatum\",\"assigneeName\":\"unassigned\",\"assigneeAvatarUrl\":\"https://ticketsystem.schul-cloud.org/secure/useravatar?avatarId=10123\"},{\"id\":\"SC-1765\",\"title\":\"Altersgrenze
+  für Brandenburg Instanz anpassen\",\"assigneeName\":\"thomas.feldtkeller\",\"assigneeAvatarUrl\":\"https://ticketsystem.schul-cloud.org/secure/useravatar?ownerId=thomas&avatarId=10812\"},{\"id\":\"SC-1754\",\"title\":\"\U0001F6A8
+  Team: \\\"Dinge\\\" funktionieren als Team-Admin nicht mehr (Timeout)\",\"assigneeName\":\"unassigned\",\"assigneeAvatarUrl\":\"https://ticketsystem.schul-cloud.org/secure/useravatar?avatarId=10123\"},{\"id\":\"SC-1645\",\"title\":\"Notification
+  prompt triggers chat welcome screen\",\"assigneeName\":\"martin.malchow\",\"assigneeAvatarUrl\":\"https://ticketsystem.schul-cloud.org/secure/useravatar?avatarId=10122\"},{\"id\":\"SC-1337\",\"title\":\"Abgaben
+  komplett unformatiert, keine Editor-Features werden dargestellt\",\"assigneeName\":\"schurig\",\"assigneeAvatarUrl\":\"https://ticketsystem.schul-cloud.org/secure/useravatar?ownerId=schurig&avatarId=10604\"}],\"id\":\"jira-feueralarme\",\"updatedAt\":1565431137361}\n\n"
+jira-blocker: "data: {\"header\":\"Blocker\",\"issues\":[],\"id\":\"jira-blocker\",\"updatedAt\":1565431137144}\n\n"
+filter1: "data: {\"current\":18,\"last\":18,\"id\":\"filter1\",\"updatedAt\":1565389507472}\n\n"
